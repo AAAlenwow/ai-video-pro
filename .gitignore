@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+.ai-video-pro/
